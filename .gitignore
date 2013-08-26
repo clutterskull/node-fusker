@@ -9,6 +9,7 @@ lib-cov
 *.iml
 
 .idea
+node_modules
 pids
 logs
 results
