@@ -2,7 +2,7 @@
   "name": "node-fusker",
   "version": "0.1.0",
   "description": "Fusking library for node",
-  "main": "lib/fusker.js",
+  "main": "./lib/fusker",
   "keywords": [
     "fusker",
     "fusk",
@@ -14,7 +14,7 @@
     "url": "https://github.com/clutterskull/node-fluxer"
   },
   "scripts": {
-    "test": "coffee tests/index.coffee"
+    "test": "coffee ./tests/index.coffee"
   },
   "dependencies": {
   },
