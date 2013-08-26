@@ -1,6 +1,6 @@
 {
   "name": "node-fusker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "URL fusking utility for node",
   "main": "./lib/fusker",
   "keywords": [
@@ -11,7 +11,7 @@
   "author": {
     "name": "John Hutchison",
     "email": "clutterskull@gmail.com",
-    "url": "https://github.com/clutterskull/node-fluxer"
+    "url": "https://github.com/clutterskull/node-fusker"
   },
   "scripts": {
     "test": "coffee ./tests/index.coffee"
