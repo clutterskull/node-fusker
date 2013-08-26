@@ -1,0 +1,17 @@
+{
+  "name": "node-fusker",
+  "version": "0.1.0",
+  "description": "Fusking library for node",
+  "main": "lib/fusker.js",
+  "keywords": [ "fusker", "fusk", "media" ],
+  "author": {
+    "name": "John Hutchison",
+    "email": "clutterskull@gmail.com",
+    "url": "https://github.com/clutterskull/node-fluxer"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
