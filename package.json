@@ -1,7 +1,7 @@
 {
   "name": "node-fusker",
-  "version": "0.1.0",
-  "description": "Fusking library for node",
+  "version": "0.1.1",
+  "description": "URL fusking utility for node",
   "main": "./lib/fusker",
   "keywords": [
     "fusker",
